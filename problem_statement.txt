@@ -1,0 +1,8 @@
+GEN AI TASK
+Please complete the following task and share your results with us at the earliest:
+
+Task:
+
+1.⁠ ⁠Build a vanilla RAG based question answering bot (Not a chatbot. So you can assume that each query would be independent of the previous query and the answer to each query would be in the document provided)
+
+2.⁠ ⁠Optimize the RAG using DSPy
