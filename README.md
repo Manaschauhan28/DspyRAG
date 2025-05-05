@@ -11,15 +11,14 @@ This project demonstrates a **Retrieval-Augmented Generation (RAG)** pipeline us
 ---
 
 ## 📁 Project Structure
-
+```bash
 ├── data/
 │ └── GST_Smart_Guide.docx # Sample document for RAG
 ├── main.py # Main pipeline implementation
 ├── .env # Environment variables (AWS profile)
 └── README.md 
 
-
----
+```
 
 ## 🚀 Features
 
